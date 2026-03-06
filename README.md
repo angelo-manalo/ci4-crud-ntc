@@ -21,6 +21,20 @@ The application allows an authenticated user to:
 - delete records with a JavaScript confirmation prompt
 - navigate through paginated record results using CodeIgniter's Pager library
 
+## Screenshots
+
+### Login Page
+![Login page](docs/screenshots/login.png)
+
+### Register Page
+![Register page](docs/screenshots/register.png)
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Records Page
+![Records page](docs/screenshots/records.png)
+
 ## Features Implemented
 - **Authentication Module**
    - Register new users
